@@ -28,10 +28,10 @@ time ranges
 
 ## 📂 Project Structure
 
-main.c                    # CLI for querying MySQL statistics
-DHT11Console_LCDOutput.c  # Sensor reading & LCD display logic
-data_analysis.h           # Data processing and SQL helpers
-I2C-1.h                   # LCD I2C control functions
-sql.h                     # MySQL connection credentials (excluded from 
-repo)
+- **main.c**                    # CLI for querying MySQL statistics
+- **DHT11Console_LCDOutput.c**  # Sensor reading & LCD display logic
+- **data_analysis.h**           # Data processing and SQL helpers
+- **I2C-1.h**                   # LCD I2C control functions
+- **sql.h**                     # MySQL connection credentials (excluded 
+from repo)
 
