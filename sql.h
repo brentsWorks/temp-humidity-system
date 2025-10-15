@@ -1,8 +1,5 @@
 #ifndef SQL_ANALYSIS_H_INCLUDED
 #define SQL_ANALYSIS_H_INCLUDED
-/*
-Adopted by CS department, West Valley College, Nov 2019.
-*/
 
 #include <mysql/mysql.h>
 #include <stdio.h>
